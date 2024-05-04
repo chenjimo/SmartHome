@@ -7,9 +7,9 @@
 复刻必看！！！
 文档中包含对应的设计思路，功能介绍、需要的电路元件以及型号、电路设计、全部的代码结构、引脚分配、遇到的问题和解决、测试视频、实物图与建模图等资料！
 
-[基于JIMO-IOT的智能晾衣架开发](https://www.yuque.com/jimoworld/linux/smart_rack)
-[基于JIMO-IOT的智能浇水开发](https://www.yuque.com/jimoworld/linux/smart_watering)
-[基于ESP32&JIMO-IOT搭建的看门狗设备（智能门窗及安防模块）](https://www.yuque.com/jimoworld/linux/smart_watchdog)
+[基于JIMO-IOT的智能晾衣架开发](https://www.yuque.com/jimoworld/linux/smart_rack)、
+[基于JIMO-IOT的智能浇水开发](https://www.yuque.com/jimoworld/linux/smart_watering)、
+[基于ESP32&JIMO-IOT搭建的看门狗设备（智能门窗及安防模块）](https://www.yuque.com/jimoworld/linux/smart_watchdog)；
 
 #### 安装教程
 
